@@ -94,20 +94,20 @@ div{
   text-transform:uppercase;
   letter-spacing:-0.03em;
   font-weight:bold;
-height:8em;
+height:12em;
   display:inline-block;
 }
 
 .topheader h1{
   text-align:center;
-  font-size:2rem;
+  font-size:2.5rem;
  color:#black;
   margin: 0.1rem;
   }
 
   .topheader h2{
   text-align:center;
-  font-size:1.2rem;
+  font-size:1.7rem;
  color:#black;
   margin: 0.1rem;
   }
@@ -129,8 +129,8 @@ width: 22em;
 .menudiv{
   text-align:left;
   margin-left:10%;
-  padding:1.2rem 0.5rem;
-  height:5em;
+  padding:2.5rem 0.5rem;
+  height:9em;
   width:50%;
   float:left;
   background-color:#fff;
@@ -173,8 +173,8 @@ height:4em;
 }
 .title h1 {
   text-align: center;
-  margin-top:0.8em;
-  font-size:1em;
+  margin-top:0.2em;
+  font-size:2em;
  color:#58657F;
 
 }
@@ -202,11 +202,12 @@ height:12em;
   background-color: #B1CAFF;
   padding:2em;
   border-radius: 0em 0em 1em 1em;
-  text-align:center
+  text-align:center;
+  font-size:1.5em;
 }
 .social > li {
     display: inline-block;
-  margin:0 0.5em 0 0.5em;
+  margin:0.5em 0.5em 0.5em 0.5em;
 }
 
 .footer-section > p {
