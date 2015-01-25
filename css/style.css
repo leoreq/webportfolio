@@ -112,20 +112,41 @@ height:12em;
   margin: 0.1rem;
   }
 
-@media only screen and (max-width: 750px) {
+/*media section start*/
+@media only screen and (max-width: 900px) {
 .project {
 width: 22em;
 }
+.title h1 {
+  margin-top:0.4em;
+  font-size:1.5em;
+}
     .topheader h1 {
-        font-size: 1rem;
+        font-size: 1.5rem;
+        margin-top: 0.52em;
     }
     .topheader h2
     {
-        font-size: 0.8rem;
+        font-size: 1.2rem;
     }
 
 }
 
+@media only screen and (max-width: 500px) {
+
+.ppic{
+  margin-right:5%;
+  width:30%;
+  margin-top:0.3em;
+}
+
+.menudiv{
+  margin-left:5%;
+}
+
+}
+
+/*media section end*/
 .menudiv{
   text-align:left;
   margin-left:10%;
@@ -140,7 +161,6 @@ width: 22em;
   border-radius:50%;
   float:right;
   margin-right:10%;
-  
 }
 .middle-section h1 {
   text-align: center;
